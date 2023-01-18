@@ -1,5 +1,6 @@
-import './style.scss';
+import '/style.scss';
 import { gsap } from 'gsap';
+
 
 /**PINK FLOWER */
 const flowerPinkLayerOne = document.querySelector('#pink-flower-later-one');
