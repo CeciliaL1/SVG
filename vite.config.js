@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/CeciliaL1/SVG/',
+  base: '/SVG/',
   define: {
     'process.env': {},
   },
